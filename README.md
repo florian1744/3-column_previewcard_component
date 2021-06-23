@@ -1,1 +1,1 @@
-Challenge from [fronendmentor.com]https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
+Challenge from [fronendmentor.com](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
