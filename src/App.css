@@ -90,7 +90,7 @@
   text-decoration: none;
   position: relative;
   padding: .75rem 1.75rem;
-  top: 10%;
+  bottom: -10%;
   margin: 15%;
   color: var(--very-dark-cyan);
   background-color: var(--very-light-gray);
@@ -101,7 +101,7 @@
   
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 600px) {
   .card-component {
     flex-direction: column;
     top: 5%;
